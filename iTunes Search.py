@@ -1,9 +1,3 @@
-#########################################
-##### Name: Stella Chang            #####
-##### Uniqname: stellacy            #####
-#########################################
-
-
 import requests
 import json
 import webbrowser
